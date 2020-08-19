@@ -1,0 +1,4 @@
+requests==2.24.0
+falcon==2.0.0
+pydantic==1.6.1
+zappa==0.51.0
